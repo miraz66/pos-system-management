@@ -18,3 +18,4 @@ This project is a minimal setup using **React** with **Vite**, offering lightnin
 git clone https://github.com/miraz66/pos-system-management.git
 cd pos-system-management
 npm install
+npm run dev
